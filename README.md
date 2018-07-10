@@ -3,11 +3,17 @@ BikeRental
 
 Example Secure Implementation of [VGS](https://www.verygoodsecurity.com) in Ruby on Rails.
 
+Dependencies
+------------
+Rails 4.1
+Ruby 2.3.7
+
+Using RVM is easiest here to set Ruby Version.
 
 Clone
 --------
 
-    $ git clone (will update once repo is open)
+    $ git clone 
 
 
 Configure
