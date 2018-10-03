@@ -75,7 +75,6 @@ GEM
       sprockets (> 2, < 4)
       tilt
     libv8 (3.16.14.19)
-    libv8 (3.16.14.19-x86_64-linux)
     loofah (2.2.2)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
@@ -184,7 +183,7 @@ DEPENDENCIES
   thin
 
 RUBY VERSION
-   ruby 2.3.7p456
+   ruby 2.5.1p57
 
 BUNDLED WITH
    1.16.2
